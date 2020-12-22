@@ -1,3 +1,5 @@
+I am a Jamaican Web Developer who aims to help beautify the internet and create useful tools for myself and others.
+
 ## Stats
 [![Repos Badge](https://badges.pufler.dev/repos/kalecream)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/kalecream)](https://badges.pufler.dev)
