@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
-I am a Jamaican Web Developer who aims to help beautify the internet and create useful tools for myself and others.
+I am a Web Developer from Jamaica who aims to help beautify the internet and create useful tools for myself and others.
 
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kalecream&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
