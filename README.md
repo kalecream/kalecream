@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
 I am a Jamaican Web Developer who aims to help beautify the internet and create useful tools for myself and others.
 
 ## Stats
