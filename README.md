@@ -4,4 +4,4 @@
 
 ## Stats
 [![Repos Badge](https://badges.pufler.dev/repos/kalecream)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/kalecream)](https://badges.pufler.dev)
