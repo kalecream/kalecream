@@ -1,6 +1,6 @@
-<img align="center" height="200" width="200" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif">
+<center><img align="center" height="150" width="150" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif">
 <h1 align="center">Hi, I'm Sabrina</h1>
-<h3 align="center">I am a Web Developer from Jamaica who aims to help beautify the internet and create useful tools for myself and others.<h3> 
+<h3 align="center">I am a Web Developer from Jamaica who aims to help beautify the internet and create useful tools for myself and others.<h3> </center>
            
 <p>Find me on the web at:</p>
 [![GitHub KaleCream](https://img.shields.io/github/followers/KaleCream?label=follow&style=social)](https://github.com/KaleCream)        
