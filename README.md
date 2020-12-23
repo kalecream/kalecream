@@ -5,7 +5,7 @@
 <p align="left"> 🕸 Find me on the web at:</p>
 <p align="left"> <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=for-the-badge" alt="medwinters" /></a> 
  <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/follow/kalecream?logo=github&style=for-the-badge" alt="github:kalecream" /></a>
- <a href="https://www.linkedin.com/in/medwinter/" target="blank"><img src="https://img.shields.io/twitter/follow/medwinter?logo=linkedin&style=for-the-badge" alt="linkedin:medwinters" /></a> </p>
+ <a href="https://www.linkedin.com/in/medwinter/" target="blank"><img src="https://img.shields.io/linkedin/follow/medwinter?logo=linkedin&style=for-the-badge" alt="linkedin:medwinters" /></a> </p>
 
 
 ## Stats
