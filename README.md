@@ -12,8 +12,6 @@
 
 
 ## Stats
-![Github contributions graph](https://raw.githubusercontent.com/kalecream/kalecream/master/profile-summary-card-output/default/0-profile-details.svg)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kalecream&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Repos Badge](https://badges.pufler.dev/repos/kalecream)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/kalecream)](https://badges.pufler.dev)
