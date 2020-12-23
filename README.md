@@ -3,8 +3,11 @@
 <h3 align="center">I am a Web Developer from Jamaica who aims to help beautify the internet and create useful tools for myself and others.</h3>
            
 <p>Find me on the web at:</p>
-[![GitHub KaleCream](https://img.shields.io/github/followers/KaleCream?label=follow&style=social)](https://github.com/KaleCream)        
+
+[![GitHub KaleCream](https://img.shields.io/github/followers/KaleCream?label=follow&style=social)](https://github.com/KaleCream)
+
 [![Twitter: Medwinters](https://img.shields.io/twitter/follow/Medwinters?style=social)](https://twitter.com/Medwinters)
+
 [![Linkedin: Sabrina Medwinter](https://img.shields.io/badge/-medwinter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/medwinter/)](https://www.linkedin.com/in/medwinter/)     
 
 
@@ -20,5 +23,3 @@
 [![Twitter: Medwinters](https://img.shields.io/twitter/follow/Medwinters?style=social)](https://twitter.com/Medwinters)
 
 
-
-<p><a href='https://ko-fi.com/Z8Z330TOH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
