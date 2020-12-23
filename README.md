@@ -3,9 +3,9 @@
 <h3 align="center">I am a Web Developer from Kingston, Jamaica who aims to help beautify the internet and create useful tools for myself and others.</h3>
            
 <p>Find me on the web at:</p>
-<p align="left"> <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=flat-square" alt="medwinters" /></a> </p>
-<p align="left"> <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=github&style=flat-square" alt="medwinters" /></a></p>
-<p align="left"> <a href="https://www.linkedin.com/in/medwinter/" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=linkedin&style=flat-square" alt="medwinters" /></a> </p>
+<p align="left"> <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=flat-square" alt="medwinters" /></a> 
+ <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/twitter/follow/kalecream?logo=github&style=flat-square" alt="github:kalecream" /></a>
+ <a href="https://www.linkedin.com/in/medwinter/" target="blank"><img src="https://img.shields.io/twitter/follow/medwinter?logo=linkedin&style=flat-square" alt="linkedin:medwinters" /></a> </p>
 
 [![GitHub KaleCream](https://img.shields.io/github/followers/KaleCream?label=follow&style=social)]()
 
