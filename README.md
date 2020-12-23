@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+<h1 align="center" height="200" width="200">![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)<h1>
 I am a Web Developer from Jamaica who aims to help beautify the internet and create useful tools for myself and others.
 
 ## Stats
