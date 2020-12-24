@@ -1,6 +1,11 @@
 <p align="center"><img height="150" width="150" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif"></p>
 <h1 align="center">Hi, I'm Sabrina</h1>
 <h3 align="center">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</h3>
+
+<p align="left"> 💼 I'm currently working on:</p>
+
+<p align="left">🏅 I'm proficient in: 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></p>
            
 <p align="left"> 🕸 Find me on the web at:</p>
 <p align="left"> <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=for-the-badge" alt="medwinters" /></a> 
