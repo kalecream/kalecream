@@ -1,6 +1,6 @@
 <p align="center"><img height="100" width="100" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif"></p>
-<h2 align="center">Hi, I'm Sabrina</h2>
-<h5 align="center">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</h5>
+<h3 align="center">Hi, I'm Sabrina</h3>
+<p align="center">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</p>
 <p align="center"> 
            <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=for-the-badge" alt="medwinters" /></a> 
            <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/medwinter?color=green&label=follow%20%40medwinter&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
@@ -52,9 +52,10 @@
 
 
 <details>
-           <summary>Stats for Nerds<summary>
+           <summary>Stats for Nerds</summary>
            </br>
            <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact"></a>
+           </br>
 </details>
 
 
