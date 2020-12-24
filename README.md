@@ -29,6 +29,11 @@
            <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/medwinter?color=green&label=follow%20%40medwinter&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
            <a href="https://www.linkedin.com/in/medwinter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+<p align="left">💎 Tip Jars</p>
+<p align="left">
+           <a href=""><img src="https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+           <a href=""><img src="https://img.shields.io/badge/kofi-F16061?style=for-the-badge&logo=kofi&logoColor=white"></a>
+</p>
 
 <hr>
 
