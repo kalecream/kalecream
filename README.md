@@ -1,9 +1,10 @@
-<p align="center"><img height="100" width="100" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif"></p>
+<p align="center"><img height="250px" src="https://webstockreview.net/images/divider-clipart-silver-14.png"></p>
+
 <h3 align="center">Hi, I'm Sabrina</h3>
-<p align="center">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</p>
+<p align="justify">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</p>
 <p align="center"> 
            <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=for-the-badge" alt="medwinters" /></a> 
-           <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/medwinter?color=green&label=follow%20%40medwinter&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
+           <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/kalecream?color=green&label=follow%20%40kalecream&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
            <a href="https://www.linkedin.com/in/medwinter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 <p align="center">
@@ -13,6 +14,8 @@
 <p align="center"><img height="250px" src="https://webstockreview.net/images/divider-clipart-silver-8.png"></p>
 
 <p align="left"> 💼 I'm currently working on:</p>
+<h3 align="center">Pan</h3>
+<p align="center">A minimalist pantry and recipe organiser webapp</p>
 
 <p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
 
@@ -50,7 +53,3 @@
            <summary>📉 Stats for Nerds</summary>
            <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact"></a></p>
 </details>
-
-
-
-
