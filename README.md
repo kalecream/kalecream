@@ -1,6 +1,11 @@
 <p align="center"><img height="100" width="100" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif"></p>
 <h2 align="center">Hi, I'm Sabrina</h2>
 <h5 align="center">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</h5>
+<p align="center"> 
+           <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=for-the-badge" alt="medwinters" /></a> 
+           <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/medwinter?color=green&label=follow%20%40medwinter&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
+           <a href="https://www.linkedin.com/in/medwinter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 <hr>
 
@@ -30,12 +35,7 @@
 <hr>
 
 <p align="left"> 📬 You can contact me at <a href="mailto:sabrinamedwinter@pm.me">sabrinamedwinter@pm.me</a></p>    
-<p align="left"> 🕸 Or find me on the web at:</p>
-<p align="left"> 
-           <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=for-the-badge" alt="medwinters" /></a> 
-           <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/medwinter?color=green&label=follow%20%40medwinter&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
-           <a href="https://www.linkedin.com/in/medwinter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+
 
 <hr>
 
@@ -50,7 +50,7 @@
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=vue)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
