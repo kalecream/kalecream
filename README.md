@@ -10,11 +10,11 @@
            <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalecream&theme=vue"></a>
 </p>
 
-<p align="center"><img src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png"></p>
+<p align="center"><img height="25px" src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png"></p>
 
 <p align="left"> 💼 I'm currently working on:</p>
 
-<hr>
+<p align="center"><img height="25px" src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png"></p>
 
 <p align="left">📚 I'm currently learning:</p>
 <p align="left">
@@ -22,7 +22,6 @@
            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
            <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui">
            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
-</p>
 
 <p align="left">🏅 I'm proficient in: </p>
 <p align="left">
@@ -35,12 +34,12 @@
            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
 </p>
 
-<hr>
+<p align="center"><img height="100px" src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png"></p>
 
 <p align="left"> 📬 You can contact me at <a href="mailto:sabrinamedwinter@pm.me">sabrinamedwinter@pm.me</a></p>    
 
 
-<hr>
+<p align="center"><img height="100px" src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png"></p>
 
 <details>
            <summary>💎 Tip Jars</summary>
