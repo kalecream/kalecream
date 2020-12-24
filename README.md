@@ -6,6 +6,9 @@
            <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/medwinter?color=green&label=follow%20%40medwinter&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
            <a href="https://www.linkedin.com/in/medwinter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+<p align="center">
+           <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalecream&theme=vue"></a>
+</p>
 
 <hr>
 
@@ -50,7 +53,7 @@
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=vue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 
