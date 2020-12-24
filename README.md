@@ -43,8 +43,7 @@
 <hr>
 
 <details>
-           <summary><p align="left">💎 Tip Jars</p></summary>
-           <br>
+           <summary>💎 Tip Jars</summary>
            <p align="left">
            <a href=""><img src="https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
            <a href="https://www.buymeacoffee.com/medwinter"><img src="https://img.shields.io/badge/kofi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
@@ -52,9 +51,7 @@
 </details>
 <details>
            <summary>Stats for Nerds</summary>
-           </br>
-           <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact"></a>
-           </br>
+           <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact"></a></p>
 </details>
 
 
