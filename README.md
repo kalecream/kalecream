@@ -10,7 +10,7 @@
            <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalecream&theme=vue"></a>
 </p>
 
-<p align="center"><img height="100px" src="http://clipart-library.com/img1/760098.png"></p>
+<p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
 
 <p align="left"> 💼 I'm currently working on:</p>
 
@@ -33,13 +33,11 @@
            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
 </p>
-
-<p align="center"><img height="100px" src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png"></p>
+<p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
 
 <p align="left"> 📬 You can contact me at <a href="mailto:sabrinamedwinter@pm.me">sabrinamedwinter@pm.me</a></p>    
 
-
-<p align="center"><img height="100px" src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png"></p>
+<p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
 
 <details>
            <summary>💎 Tip Jars</summary>
