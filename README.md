@@ -4,8 +4,8 @@
 
 <p align="left"> 💼 I'm currently working on:</p>
 
-<p align="left">🏅 I'm proficient in: 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></p>
+<p align="left">🏅 I'm proficient in: </p>
+<p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></p>
            
 <p align="left"> 🕸 Find me on the web at:</p>
 <p align="left"> <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=for-the-badge" alt="medwinters" /></a> 
