@@ -10,7 +10,7 @@
            <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalecream&theme=vue"></a>
 </p>
 
-<hr>
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-Pg7o9jbciV8%2FVaaSe0TwYsI%2FAAAAAAAAAQA%2FniR-nJJYxm0%2Fs1600%2FJuly%252BDivider.png&f=1&nofb=1">
 
 <p align="left"> 💼 I'm currently working on:</p>
 
