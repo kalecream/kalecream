@@ -50,7 +50,7 @@
 </p>
 </details>
 <details>
-           <summary>Stats for Nerds</summary>
+           <summary>📉 Stats for Nerds</summary>
            <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact"></a></p>
 </details>
 
