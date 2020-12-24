@@ -1,6 +1,6 @@
-<p align="center"><img height="150" width="150" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif"></p>
-<h1 align="center">Hi, I'm Sabrina</h1>
-<h3 align="center">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</h3>
+<p align="center"><img height="100" width="100" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif"></p>
+<h2 align="center">Hi, I'm Sabrina</h1>
+<h5 align="center">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</h3>
 
 <p align="left"> 💼 I'm currently working on:</p>
 
@@ -32,7 +32,7 @@
 <p align="left">💎 Tip Jars</p>
 <p align="left">
            <a href=""><img src="https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
-           <a href=""><img src="https://img.shields.io/badge/kofi-F16061?style=for-the-badge&logo=kofi&logoColor=white"></a>
+           <a href="https://www.buymeacoffee.com/medwinter"><img src="https://img.shields.io/badge/kofi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
 
 <hr>
@@ -40,8 +40,7 @@
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Repos Badge](https://badges.pufler.dev/repos/kalecream)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/kalecream)](https://badges.pufler.dev)
+
 
 
 
