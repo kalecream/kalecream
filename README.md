@@ -42,15 +42,14 @@
 
 <hr>
 
-<p align="left">💎 Tip Jars</p>
-<p align="left">
+<details>
+           <summary><p align="left">💎 Tip Jars</p></summary>
+           <br>
+           <p align="left">
            <a href=""><img src="https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
            <a href="https://www.buymeacoffee.com/medwinter"><img src="https://img.shields.io/badge/kofi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
-
-<hr>
-
-
+</details>
 <details>
            <summary>Stats for Nerds</summary>
            </br>
