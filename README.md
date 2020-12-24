@@ -10,7 +10,7 @@
            <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalecream&theme=vue"></a>
 </p>
 
-<img align="center" src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png">
+<p align="center"><img src="https://2.bp.blogspot.com/-Pg7o9jbciV8/VaaSe0TwYsI/AAAAAAAAAQA/niR-nJJYxm0/s1600/July%2BDivider.png"></p>
 
 <p align="left"> 💼 I'm currently working on:</p>
 
