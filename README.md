@@ -53,7 +53,8 @@
 
 <details>
            <summary>Stats for Nerds<summary>
-           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+           </br>
+           <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact"></a>
 </details>
 
 
