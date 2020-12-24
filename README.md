@@ -10,7 +10,7 @@
            <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalecream&theme=vue"></a>
 </p>
 
-<p align="center"><img height="100px" src="https://webstockreview.net/images/divider-clipart-silver-8.png"></p>
+<p align="center"><img height="250px" src="https://webstockreview.net/images/divider-clipart-silver-8.png"></p>
 
 <p align="left"> 💼 I'm currently working on:</p>
 
