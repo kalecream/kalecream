@@ -14,6 +14,7 @@
 <p align="center"><img height="250px" src="https://webstockreview.net/images/divider-clipart-silver-8.png"></p>
 
 <p align="left"> 💼 I'm currently working on:</p>
+<p align="center"><img height="100px" src="https://raw.githubusercontent.com/kalecream/Pan/master/images/panlogo.png"></p>
 <h3 align="center">Pan</h3>
 <p align="center">A minimalist pantry and recipe organiser webapp</p>
 
