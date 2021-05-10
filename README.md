@@ -1,7 +1,7 @@
 <p align="center"><img height="250px" src="https://webstockreview.net/images/divider-clipart-silver-14.png"></p>
 
 <h3 align="center">Hi, I'm Sabrina</h3>
-<p align="justify">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help beautify the internet and create useful tools for myself and others.</p>
+<p align="justify">I am a Web Developer from Kingston, Jamaica 🇯🇲 who aims to help create and maintain useful tools for myself and others.</p>
 <p align="center"> 
            <a href="https://twitter.com/medwinters" target="blank"><img src="https://img.shields.io/twitter/follow/medwinters?logo=twitter&style=for-the-badge" alt="medwinters" /></a> 
            <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/kalecream?color=green&label=follow%20%40kalecream&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
