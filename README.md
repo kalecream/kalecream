@@ -14,9 +14,8 @@
 <p align="center"><img height="250px" src="https://webstockreview.net/images/divider-clipart-silver-8.png"></p>
 
 <p align="left"> 💼 I'm currently working on:</p>
-<p align="center"><img height="100px" src="https://raw.githubusercontent.com/kalecream/Pan/master/images/panlogo.png"></p>
-<h3 align="center">Pan</h3>
-<p align="center">A minimalist pantry and recipe organiser webapp</p>
+<h3 align="center">Gaia</h3>
+<p align="center">A custom obsidian.md theme.</p>
 
 <p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
 
@@ -24,7 +23,6 @@
 <p align="left">
            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
-           <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui">
            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
 
 <p align="left">🏅 I'm proficient in: </p>
@@ -42,7 +40,7 @@
            <br>
            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
 </p>
-<p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
+<p align="center"><img height="50px" src=""></p>
 
 <p align="left"> 📬 You can contact me at <a href="mailto:sabrinamedwinter@gmail.com">sabrinamedwinter@pm.me</a></p>    
 
