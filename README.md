@@ -44,7 +44,7 @@
 </p>
 <p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
 
-<p align="left"> 📬 You can contact me at <a href="mailto:sabrinamedwinter@pm.me">sabrinamedwinter@pm.me</a></p>    
+<p align="left"> 📬 You can contact me at <a href="mailto:sabrinamedwinter@gmail.com">sabrinamedwinter@pm.me</a></p>    
 
 <p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
 
