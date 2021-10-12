@@ -24,10 +24,9 @@
 <br><br>
 <p align="center">🌳</p>
 <h3 align="center"><a href="https://github.com/kalecream/website-templates">Portfolio Garden (new!)</a></h3>
-<p align="center"> Code Playground</center>
+<p align="center"> Code Playground</center><br>
 
-<p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
-
+<br><br><br>
 <p align="center">Competencies:</p>
 <details align="center">
 <summary>Web Development</summary>
@@ -41,8 +40,7 @@
 </p>                                                                                                                                
 <br> 
 <p align="center"> <br>📬<br><a href="mailto:mail@sabrinamedwinter.com">mail[@]sabrinamedwinter.com</a></p>    
-
-<p align="center"><img height="50px" src="http://clipart-library.com/img1/760098.png"></p>
+<br>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact"></a></p> 
 
