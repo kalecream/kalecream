@@ -19,7 +19,7 @@
 <p align="center">An auto-responder Python Discord Bot</p>
 <br>
 <p align="center">🕸</p>
-<h3 align="center"><a href="https://github.com/kalecream/website-templates">Website Templates (new!Private for now)</a></h3>
+<h3 align="center"><a href="https://github.com/kalecream/website-templates">Website Templates (new! Private for now)</a></h3>
 <p align="center">React templates to use in my Web Design Business</center>
 <br><br>
 <p align="center">🌳</p>
