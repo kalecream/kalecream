@@ -42,6 +42,9 @@
 <p align="center"> <br>📬<br><a href="mailto:mail@sabrinamedwinter.com">mail[@]sabrinamedwinter.com</a></p>    
 <br>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream&layout=compact"></a></p> 
+<center><img 
+width="50%"
+src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kalecream&badges=4&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/><center>
 
 
