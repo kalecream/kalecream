@@ -42,9 +42,8 @@
 <p align="center"> <br>📬<br><a href="mailto:mail@sabrinamedwinter.com">mail[@]sabrinamedwinter.com</a></p>    
 <br>
 
-<center><img 
-width="50%"
-src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kalecream&badges=4&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/><center>
-
-
+<p align="center">
+<img width="50%"
+src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kalecream&badges=4&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px"
+/>
+</p>
