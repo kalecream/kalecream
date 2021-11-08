@@ -14,17 +14,9 @@
 <p align="center"><img style="user-select:none" height="250px" src="https://webstockreview.net/images/divider-clipart-silver-8.png"></p>
 
 <p align="center">Currently Working On:</p><br>
-<p align="center">🤖</p>
-<h3 align="center"><a href="https://github.com/kalecream/discord-bot">Un-named Discord Bot (Private Repo)</a></h3>
-<p align="center">An auto-responder Python Discord Bot</p>
-<br>
 <p align="center">🕸</p>
 <h3 align="center"><a href="https://github.com/kalecream/website-templates">Website Templates (new! Private for now)</a></h3>
 <p align="center">React templates to use in my Web Design Business</center>
-<br><br>
-<p align="center">🌳</p>
-<h3 align="center"><a href="https://github.com/kalecream/website-templates">Portfolio Garden (new! Private for now)</a></h3>
-<p align="center"> Code Playground</center><br>
 
 <br><br><br>
 <p align="center">Competencies:</p>
