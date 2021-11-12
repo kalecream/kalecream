@@ -14,9 +14,9 @@
 <p align="center"><img style="user-select:none" height="250px" src="https://webstockreview.net/images/divider-clipart-silver-8.png"></p>
 
 <p align="center">Currently Working On:</p><br>
-<p align="center">🕸</p>
-<h3 align="center"><a href="https://github.com/kalecream/website-templates">Website Templates (new! Private for now)</a></h3>
-<p align="center">React templates to use in my Web Design Business</center>
+<p align="center">💸</p>
+<h3 align="center"><a href="https://github.com/kalecream/spen">Spen</a></h3>
+<p align="center">A personal finance tracker for Jamaicans</center>
 
 <br><br><br>
 <p align="center">Competencies:</p>
