@@ -16,7 +16,7 @@
 <p align="center">Currently Working On:</p><br>
 <p align="center">💸</p>
 <h3 align="center"><a href="https://github.com/kalecream/spen">Spen</a></h3>
-<p align="center">A personal finance tracker for Jamaicans</center>
+<p align="center">A personal finance and income tax tool for Jamaicans</center>
 
 <br><br><br>
 <p align="center">Competencies:</p>
