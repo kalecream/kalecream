@@ -17,6 +17,7 @@
 <p align="center">💸</p>
 <h3 align="center"><a href="https://github.com/kalecream/spen">Spen</a></h3>
 <p align="center">A personal finance and income tax tool for Jamaicans</center>
+<p align="center">(Not yet released)</center>
 
 <br><br><br>
 <p align="center">Competencies:</p>
