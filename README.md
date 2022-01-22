@@ -13,12 +13,6 @@
 
 <p align="center"><img style="user-select:none" height="250px" src="https://webstockreview.net/images/divider-clipart-silver-8.png"></p>
 
-<p align="center">Currently Working On:</p><br>
-<p align="center">💸</p>
-<h3 align="center"><a href="https://github.com/kalecream/spen">Spen</a></h3>
-<p align="center">A personal finance and income tax tool for Jamaicans</center>
-<p align="center">(Not yet released)</center>
-
 <br><br><br>
 <p align="center">Competencies:</p>
 <details align="center">
