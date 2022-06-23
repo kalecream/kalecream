@@ -28,9 +28,3 @@
 <br> 
 <p align="center"> <br>📬<br><a href="mailto:mail@sabrinamedwinter.com">mail[@]sabrinamedwinter.com</a></p>    
 <br>
-
-<p align="center">
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kalecream&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-</p>
