@@ -8,16 +8,10 @@
 <p align="center">
            <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalecream&theme=vue"></a>
 </p>
-
-<br><br><br>
-<p align="center">Web Development</p>
 <p align="center">
-           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-           <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-           <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecream">
 </p>
-</p>                                                                                                                                
-<br> 
+
+<br><br><br> 
 <p align="center"> <br>📬<br><a href="mailto:sabrinamedwinter@gmail.com">sabrinamedwinter@gmail.com</a></p>    
 <br>
