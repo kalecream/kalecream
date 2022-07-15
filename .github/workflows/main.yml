@@ -32,8 +32,9 @@ jobs:
           user: kalecream
           template: classic
           base: header, activity, community, repositories, metadata
-          base_hireable: yes
+          base_hireable: no
           base_indepth: yes
+          config_display: columns
           config_timezone: America/Jamaica
           plugin_achievements: yes
           plugin_achievements_display: compact
