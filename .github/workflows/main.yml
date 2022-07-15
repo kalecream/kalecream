@@ -51,7 +51,7 @@ jobs:
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: .user.login
+          plugin_anilist_user: s6l8r
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_followup: yes
