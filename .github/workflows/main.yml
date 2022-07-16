@@ -52,7 +52,7 @@ jobs:
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites,reading,watching
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: s6l8r
+          plugin_anilist_user: kalecream
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_followup: yes
