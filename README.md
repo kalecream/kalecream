@@ -5,10 +5,10 @@
            <a href="https://github.com/KaleCream" target="blank"><img src="https://img.shields.io/github/followers/kalecream?color=green&label=follow%20%40kalecream&logo=github&style=for-the-badge" alt="github:kalecream" /></a>
            <a href="https://www.linkedin.com/in/medwinter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+<p align="center"> <br>📬<br><a href="mailto:sabrinamedwinter@gmail.com">sabrinamedwinter@gmail.com</a></p>    
+<br><br>
 <p align="center">
             <img src="/github-metrics.svg" alt="Metrics" >
 </p>
 
-<br><br><br> 
-<p align="center"> <br>📬<br><a href="mailto:sabrinamedwinter@gmail.com">sabrinamedwinter@gmail.com</a></p>    
-<br>
+
