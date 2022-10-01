@@ -23,11 +23,7 @@ jobs:
           base_hireable: no
           base_indepth: yes
           repositories_forks: yes
-          extras_css: |
-            h2 {
-            color: green;
-            }
-          config_display: columns
+          config_display: large
           config_padding: 10% 5%
           config_timezone: America/Jamaica
           plugin_achievements: yes
@@ -71,7 +67,7 @@ jobs:
           plugin_languages_ignored: html
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
