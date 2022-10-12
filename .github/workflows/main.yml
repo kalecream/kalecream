@@ -19,7 +19,7 @@ jobs:
           # Options
           user: kalecream
           template: classic
-          base: header, sponser, activity, community, repositories, metadata, achievements
+          base: sponser, activity, community, repositories, metadata, achievements
           base_hireable: no
           base_indepth: yes
           repositories_forks: yes
