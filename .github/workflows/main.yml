@@ -83,7 +83,7 @@ jobs:
           plugin_sponsors_size: 24
           plugin_stars: yes
           plugin_stars_limit: 8
-          plugin_topics: yes
+          plugin_topics: no
           plugin_topics_limit: 20
           plugin_topics_mode: labels
           plugin_topics_sort: stars
