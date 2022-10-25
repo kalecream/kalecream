@@ -56,20 +56,19 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: no
           plugin_habits_from: 1000
-          plugin_habits_languages_limit: 8
+          plugin_habits_languages_limit: 0
           plugin_habits_trim: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: no
+          plugin_languages: yes
           plugin_languages_analysis_timeout: 30
-          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: html
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 10
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
