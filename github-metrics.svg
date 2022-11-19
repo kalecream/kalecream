@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 337 repositories
+                            Starred 338 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.74m added, 1.48m removed
+                                    2.85m added, 1.51m removed
                                 </div>
                             </section>
                             <section>
@@ -328,26 +328,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M178.408,105.84A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.23945835423016087"/>
+                                        <path d="M178.39,105.89A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.23952765932814943"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M50.52,128.177A75,75,0,0,0,178.498,105.594L108,80Z" class="ct-slice-pie" ct:value="0.26059951390764247"/>
+                                        <path d="M50.56,128.225A75,75,0,0,0,178.479,105.644L108,80Z" class="ct-slice-pie" ct:value="0.2603855133424663"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M49.59,127.046A75,75,0,0,0,50.688,128.377L108,80Z" class="ct-slice-pie" ct:value="0.0024304617877396704"/>
+                                        <path d="M49.63,127.095A75,75,0,0,0,50.729,128.425L108,80Z" class="ct-slice-pie" ct:value="0.0024311652227603374"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M43.105,42.401A75,75,0,0,0,49.755,127.25L108,80Z" class="ct-slice-pie" ct:value="0.14985918753134525"/>
+                                        <path d="M43.091,42.426A75,75,0,0,0,49.794,127.298L108,80Z" class="ct-slice-pie" ct:value="0.14990256044146874"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,42.974,42.628L108,80Z" class="ct-slice-pie" ct:value="0.1302418888160179"/>
+                                        <path d="M108,5A75,75,0,0,0,42.96,42.653L108,80Z" class="ct-slice-pie" ct:value="0.13027958400061743"/>
                                     </g>
                                     <g>
-                                        <text dx="138.74699727683083" dy="58.5320667399361" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="114.45190379185493" dy="116.94080315126686" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="79.02610180440487" dy="103.80678943812646" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="70.60958022210829" dy="82.86470047876634" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="89.27473387890065" dy="47.50977979923791" text-anchor="middle" class="ct-label">Sass</text>
+                                        <text dx="138.7546279295084" dy="58.54299972229338" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="114.45426624354164" dy="116.94039045892015" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="79.04599930146134" dy="103.83098494710242" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="70.61133249436551" dy="82.88748024289558" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="89.26845139782553" dy="47.5134014251357" text-anchor="middle" class="ct-label">Sass</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1440,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>streamich/react-use</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Hooks — 👍</div>
@@ -1493,7 +1493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RobertBroersma/bigheads</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily create characters for your projects</div>
@@ -1832,7 +1832,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2022, 09:06:30 (timezone America/Jamaica) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Nov 2022, 10:06:42 (timezone America/Jamaica) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
