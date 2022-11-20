@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.82m added, 1.50m removed
+                                    2.91m added, 1.54m removed
                                 </div>
                             </section>
                             <section>
@@ -328,26 +328,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M162.271,131.766A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.293380271196543"/>
+                                        <path d="M148.897,142.869A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.3225704277835743"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M38.325,107.757A75,75,0,0,0,162.451,131.576L108,80Z" class="ct-slice-pie" ct:value="0.2516390999850991"/>
+                                        <path d="M38.346,107.808A75,75,0,0,0,149.116,142.725L108,80Z" class="ct-slice-pie" ct:value="0.22231331047846176"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M37.82,106.452A75,75,0,0,0,38.423,108L108,80Z" class="ct-slice-pie" ct:value="0.0023468931604827895"/>
+                                        <path d="M37.839,106.503A75,75,0,0,0,38.443,108.051L108,80Z" class="ct-slice-pie" ct:value="0.0023475927858101057"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M44.893,39.471A75,75,0,0,0,37.912,106.697L108,80Z" class="ct-slice-pie" ct:value="0.11713977052600208"/>
+                                        <path d="M44.878,39.495A75,75,0,0,0,37.932,106.748L108,80Z" class="ct-slice-pie" ct:value="0.11717469071396631"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,44.752,39.692L108,80Z" class="ct-slice-pie" ct:value="0.12576367158396662"/>
+                                        <path d="M108,5A75,75,0,0,0,44.737,39.716L108,80Z" class="ct-slice-pie" ct:value="0.12580116261737964"/>
                                     </g>
                                     <g>
-                                        <text dx="142.47358615165388" dy="65.24121082729017" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="100.86871076903914" dy="116.81568570466102" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="73.03477012783696" dy="93.55295908600029" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="70.7073878679585" dy="76.06158910610999" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="90.0230675652538" dy="47.08982072007857" text-anchor="middle" class="ct-label">Sass</text>
+                                        <text dx="143.95160866309317" dy="69.33548714024856" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="96.6636474015653" dy="115.7454487979094" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="73.04470143570416" dy="93.57855302603842" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="70.7052160528674" dy="76.08220848733612" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="90.01686074956439" dy="47.09321190545267" text-anchor="middle" class="ct-label">Sass</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1837,7 +1837,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2022, 23:09:13 (timezone America/Jamaica) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Nov 2022, 00:06:30 (timezone America/Jamaica) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
