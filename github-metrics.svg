@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.84m added, 1.51m removed
+                                    2.94m added, 1.55m removed
                                 </div>
                             </section>
                             <section>
@@ -321,30 +321,30 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M33.844,91.222A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.529582462918127"/>
+                                        <path d="M33.664,89.96A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.5269678317632841"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M71.416,14.528A75,75,0,0,0,33.884,91.481L108,80Z" class="ct-slice-pie" ct:value="0.14062330261230696"/>
+                                        <path d="M71.746,14.345A75,75,0,0,0,33.699,90.219L108,80Z" class="ct-slice-pie" ct:value="0.1380319598773376"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M97.383,5.755A75,75,0,0,0,71.187,14.656L108,80Z" class="ct-slice-pie" ct:value="0.04266272758262025"/>
+                                        <path d="M97.488,5.74A75,75,0,0,0,71.517,14.472L108,80Z" class="ct-slice-pie" ct:value="0.04187655809917416"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M101.948,5.245A75,75,0,0,0,97.124,5.793L108,80Z" class="ct-slice-pie" ct:value="0.007109830270595595"/>
+                                        <path d="M102.008,5.24A75,75,0,0,0,97.228,5.778L108,80Z" class="ct-slice-pie" ct:value="0.006978813528161609"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M102.558,5.198A75,75,0,0,0,101.687,5.266L108,80Z" class="ct-slice-pie" ct:value="0.0009464789857940747"/>
+                                        <path d="M102.611,5.194A75,75,0,0,0,101.747,5.261L108,80Z" class="ct-slice-pie" ct:value="0.0009290376983397434"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M108,5A75,75,0,0,0,102.296,5.217L108,80Z" class="ct-slice-pie" ct:value="0.00843090516105751"/>
+                                        <path d="M108,5A75,75,0,0,0,102.35,5.213L108,80Z" class="ct-slice-pie" ct:value="0.008275544246952437"/>
                                     </g>
                                     <g>
-                                        <text dx="136.43117728315937" dy="104.45236508588816" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="74.32383015144333" dy="63.50255824889315" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="95.99763876229417" dy="44.47263977271015" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="103.83083835642205" dy="42.73247940646281" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="105.126322798475" dy="42.61026906567212" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="106.63849105640769" dy="42.52472423855272" text-anchor="middle" class="ct-label">Sass</text>
+                                        <text dx="136.22225304773764" dy="104.69320620959263" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="74.50766616592894" dy="63.13246982077284" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="96.11206561643455" dy="44.43418753786099" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="103.87186418720351" dy="42.727912659590594" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="105.15466161042916" dy="42.608101820730816" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="106.65193777612195" dy="42.524238123280895" text-anchor="middle" class="ct-label">Sass</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1845,7 +1845,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2023, 16:18:44 (timezone America/Jamaica) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 8 Feb 2023, 17:20:00 (timezone America/Jamaica) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
