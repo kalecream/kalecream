@@ -1,5 +1,5 @@
 <h3 align="center"> 🤟🏽 Sabrina Medwinter 🤟🏽</h3>
-<p align="center">A 3D Artist and Web Developer from Kingston, Jamaica<br> who aims to help create and maintain useful tools.</p>
+<p align="center">A 3D Artist and Web Developer from Kingston, Jamaica.</p>
 <br/><br/>
 <br><br>
 <p align="center">
