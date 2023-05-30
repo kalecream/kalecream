@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.89m added, 1.52m removed
+                                    2.53m added, 1.19m removed
                                 </div>
                             </section>
                             <section>
@@ -454,42 +454,50 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-47.295,-64.523L0,0Z">
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-66.241,-44.857L0,0Z">
                                         <title>TypeScript
 71.50</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-46.485,-65.109A80,80,0,0,1,-35.443,-71.72L0,0Z">
+                                    <path fill="#3178c6" d="M-65.675,-45.682A80,80,0,0,1,-58.042,-55.056L0,0Z">
                                         <title>TSX
 2.04</title>
                                     </path>
-                                    <path fill="#563d7c" d="M-34.544,-72.158A80,80,0,0,1,-26.732,-75.402L0,0Z">
+                                    <path fill="#563d7c" d="M-57.349,-55.777A80,80,0,0,1,-51.533,-61.191L0,0Z">
                                         <title>CSS
 1.34</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-25.788,-75.73A80,80,0,0,1,-25.608,-75.791L0,0Z">
+                                    <path fill="#fcb32c" d="M-50.765,-61.83A80,80,0,0,1,-25.31,-75.891L0,0Z">
+                                        <title>MDX
+4.93</title>
+                                    </path>
+                                    <path fill="#f1e05a" d="M-24.359,-76.201A80,80,0,0,1,-24.189,-76.255L0,0Z">
                                         <title>JavaScript
 0.03</title>
                                     </path>
-                                    <path fill="#3572A5" d="M-24.659,-76.105A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#3572A5" d="M-23.234,-76.552A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Python
 3.89</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(12.321931703878562,38.054828853707285)">
+                                    <text transform="translate(18.63589332191261,35.393551391380505)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
                                         <tspan x="0" y="1.1em">71.50</tspan>
                                     </text>
-                                    <text transform="translate(-20.548632957982512,-34.31841609920415)">
+                                    <text transform="translate(-31.017778984549548,-25.256630552503168)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
                                     </text>
-                                    <text transform="translate(-15.340514771761757,-36.941421284749715)">
+                                    <text transform="translate(-27.254227107828967,-29.27809940475783)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-12.848943633873144,-37.88013526234497)">
+                                    <text transform="translate(-19.340663376556833,-35.01340800543005)">
+                                        <tspan x="0" y="0em" font-weight="bold">MDX</tspan>
+                                        <tspan x="0" y="1.1em">4.93</tspan>
+                                    </text>
+                                    <text transform="translate(-12.137087626198015,-38.11418507529698)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-6.364576198502445,-39.49040604771564)">
+                                    <text transform="translate(-5.99582060688408,-39.54807372363494)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
                                         <tspan x="0" y="1.1em">3.89</tspan>
                                     </text>
@@ -1979,7 +1987,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2023, 04:07:07 (timezone America/Jamaica) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 May 2023, 05:07:02 (timezone America/Jamaica) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
