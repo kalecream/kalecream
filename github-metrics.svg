@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>i3/i3</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiling window manager for X11</div>
@@ -2007,7 +2007,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2023, 16:06:19 (timezone America/Jamaica) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Aug 2023, 17:06:16 (timezone America/Jamaica) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
