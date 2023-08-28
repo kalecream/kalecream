@@ -45,37 +45,34 @@ jobs:
           plugin_anilist_user: kalecream
           plugin_discussions: no
           plugin_discussions_categories: yes
-          plugin_followup: no
+          plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
-          plugin_followup_sections: user
-          plugin_gists: no
+          plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
+          plugin_habits_charts_type: classic
           plugin_habits_days: 30
           plugin_habits_facts: no
           plugin_habits_from: 1000
           plugin_habits_languages_limit: 0
-          plugin_habits_trim: no
+          plugin_habits_trim: yes
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 30
           plugin_languages_colors: github
           plugin_languages_ignored: html
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
-          plugin_languages_limit: 10
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
+          plugin_languages_limit: 8
+          plugin_languages_other: yes
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 100%
+          plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_projects: no
-          plugin_projects_limit: 1
+          plugin_projects: yes
           plugin_projects_descriptions: yes
+          plugin_sponsorships: yes
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list, about
@@ -87,7 +84,13 @@ jobs:
           plugin_topics_mode: labels
           plugin_topics_sort: stars
           plugin_traffic: yes
-          plugin_tweets: no
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: www.sabrinamedwinter.com
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 1
-          plugin_tweets_user: kalecream
+          plugin_tweets_user: SabMedwinter
