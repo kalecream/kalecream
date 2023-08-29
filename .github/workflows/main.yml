@@ -89,8 +89,4 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: www.sabrinamedwinter.com
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_tweets: yes
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 1
-          plugin_tweets_user: SabMedwinter
+          plugin_pagespeed_screenshot: no
