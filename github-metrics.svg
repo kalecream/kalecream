@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    14m added, 13.3m removed
+                                    2.35m added, 558k removed
                                 </div>
                             </section>
                             <section>
@@ -270,13 +270,13 @@
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="71.92307692307692" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="71.92307692307692" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="71.92307692307692" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="71.92307692307692" y="0" width="0" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="71.92307692307692" y="0" width="44.42307692307693" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="116.34615384615384" y="0" width="96.25" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="212.59615384615384" y="0" width="7.403846153846153" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="71.57894736842104" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="71.57894736842104" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="71.57894736842104" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="71.57894736842104" y="0" width="0" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="71.57894736842104" y="0" width="44.21052631578947" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="115.78947368421052" y="0" width="96.8421052631579" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="212.63157894736844" y="0" width="7.36842105263158" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -295,7 +295,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">98 <small>merged</small></span>
+                                <span class="no-wrap">99 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -357,20 +357,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 720mb of code in 97475 edited files across 1478 commits</small>
+                <small>estimation from 720mb of code in 97481 edited files across 1479 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.2126850240901" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="429.2126850240901" y="0" width="323.68521693711665" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="752.8979019612068" y="0" width="63.23714979483075" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="816.1350517560376" y="0" width="51.30727674280883" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="867.4423284988465" y="0" width="45.99001714604298" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="913.4323456448894" y="0" width="3.9276366573255848" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="917.359982302215" y="0" width="1.9262315540788717" height="8" fill="#a53b70"/>
-                    <rect mask="url(#languages-bar)" x="919.2862138562939" y="0" width="0.7137861437062252" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.00585378894374" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="429.00585378894374" y="0" width="323.96701541848773" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="752.9728692074315" y="0" width="63.212233528652206" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="816.1851027360838" y="0" width="51.28255252614194" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="867.4676552622257" y="0" width="45.9678552380132" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="913.4355105002389" y="0" width="3.9257439873990307" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="917.3612544876379" y="0" width="1.9253033316255077" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="919.2865578192635" y="0" width="0.7134421807366199" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -382,7 +382,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>46.65%</div>
+                                <div>46.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -406,7 +406,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>35.18%</div>
+                                <div>35.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -454,7 +454,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>5.58%</div>
+                                <div>5.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2438,7 +2438,7 @@ Panorama Toukitan received the 2009 Tezuka Osamu Cultural Prize for New Artist.<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2024, 13:09:28 (timezone America/Jamaica) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2024, 14:06:57 (timezone America/Jamaica) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
