@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    903k added, 219k removed
+                                    1.96m added, 229k removed
                                 </div>
                             </section>
                             <section>
@@ -1825,7 +1825,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ananthakumaran/paisa</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi</div>
@@ -2011,7 +2011,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        550
+                                        551
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2290,9 +2290,9 @@
                             </h2>
                             <div class="medias largeable-flex-wrap">
                                 <div class="media largeable-width-half">
-                                    <img src="data:image/jpg;base64,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" width="48" height="72" alt="" />
+                                    <img src="data:image/jpg;base64,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" width="48" height="72" alt="" />
                                     <div class="about">
-                                        <div class="name">Yu-Mi-ui Sepodeul</div>
+                                        <div class="name">Kasane</div>
                                         <div class="infos">
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2304,7 +2304,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
                                                 </svg>
-                                                2015
+                                                2013
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2316,7 +2316,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                                                 </svg>
-                                                511 chapters
+                                                126 chapters
                                             </div>
                                         </div>
                                         <div class="infos">
@@ -2324,12 +2324,15 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                                 </svg>
-                                                Comedy, Romance, Slice of Life
+                                                Drama, Horror, Psychological, Supernatural, Thriller
                                             </div>
                                         </div>
-                                        <div class="description">A story of Yumi and her brain cells.  
-(Source: WEBTOONS)  
-&lt;i&gt;Note: Chapter count includes a prologue and an epilogue. &lt;/i&gt;</div>
+                                        <div class="description">Kasane's face is so hideous, you couldn't bear to look twice at her—and her ugliness has forced her to walk a harsh path in life. But her mother left her something: a tube of lipstick. The power of this lipstick will change everything about her downtrodden life.
+  
+(Source: Kodansha USA)
+ 
+ 
+&lt;i&gt;Note: Nominated for the 8th Manga Taishou Award.&lt;/i&gt;</div>
                                     </div>
                                 </div>
                             </div>
@@ -2444,7 +2447,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2025, 16:07:00 (timezone America/Jamaica) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2025, 17:07:10 (timezone America/Jamaica) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
