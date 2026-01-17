@@ -81,3 +81,12 @@ jobs:
           plugin_pagespeed_url: www.sabrinamedwinter.com
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: no
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          plugin_rss: yes
+          plugin_rss_source: https://www.yunghigue.com/feed.xml
+          plugin_rss_limit: 4
+          plugin_chess: yes
+          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          plugin_chess_platform: lichess.org
+          
