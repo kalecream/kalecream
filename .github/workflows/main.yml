@@ -43,14 +43,6 @@ jobs:
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_gists: yes
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 28
-          plugin_habits_facts: no
-          plugin_habits_from: 1000
-          plugin_habits_languages_limit: 0
-          plugin_habits_trim: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -77,12 +69,6 @@ jobs:
           plugin_traffic: yes
           plugin_notable: yes
           plugin_notable_indepth: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: www.yunghigue.com
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: no
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
           plugin_rss: yes
           plugin_rss_source: https://www.yunghigue.com/feed.xml
           plugin_rss_limit: 4
