@@ -26,17 +26,11 @@ jobs:
           config_display: large
           config_padding: 5%
           config_timezone: America/Jamaica
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 3
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
           plugin_anilist: yes
           plugin_anilist_limit: 1
           plugin_anilist_limit_characters: 0
           plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites,reading,watching
+          plugin_anilist_sections: favorites,reading
           plugin_anilist_shuffle: yes
           plugin_anilist_user: kalecream
           plugin_followup: yes
@@ -69,9 +63,6 @@ jobs:
           plugin_traffic: yes
           plugin_notable: yes
           plugin_notable_indepth: yes
-          plugin_rss: yes
-          plugin_rss_source: https://www.yunghigue.com/feed.xml
-          plugin_rss_limit: 4
           plugin_chess: yes
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
           plugin_chess_platform: lichess.org
